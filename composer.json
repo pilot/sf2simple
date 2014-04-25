@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/symfony": "@stable"
+    },
+    "autoload": {
+        "psr-0": { "Knp": "src/" }
+    }
+}

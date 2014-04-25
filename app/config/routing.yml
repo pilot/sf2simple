@@ -1,0 +1,4 @@
+hello:
+    pattern: /
+    defaults:
+        _controller: "Knp\MyBundle\Controller\HelloController::helloAction"
